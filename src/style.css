@@ -1,0 +1,35 @@
+.imagen-carrusel{
+    height: 400px;
+    object-fit: cover;
+    object-position: 0 80%;
+
+}
+
+.titulo-fuente {
+    font-family: 'Pacifico', cursive;
+}
+
+.texto-verde{
+    color: #0f8d1a !important;
+}
+
+.card-width{
+    max-width: 18rem;
+}
+
+
+.btn-color-especial{
+    color: white;
+    background-color: #0f8d1a;
+
+}
+
+.card-border-color{
+    border-color: #0f8d1a ;
+}
+
+.card-imagenes-tamaño{
+    height: 200px;
+    object-fit: cover;
+}
+
